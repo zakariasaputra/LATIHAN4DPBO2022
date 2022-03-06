@@ -52,7 +52,7 @@ py [name].py
 ```
 ### Results
 1. Airplane Class</br>
-![SS A1](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Airplane%20Class_1.png)
+![SS A1](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Airplane%20Class_1.png)</br>
 ![SS A2](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Airplane%20Class_2.png)
 2. Ship Class</br>
 ![SS S1](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Ship%20Class_1.png)</br>
