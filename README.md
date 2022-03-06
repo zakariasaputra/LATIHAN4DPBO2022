@@ -36,7 +36,7 @@ Pada latihan kali ini terdapat penerapan dari materi "Inheritance dan Compositio
 
 ### Design and Details
 #### Design Class
-![Design](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Desain/Desain.png)
+![Design](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/c6099d748c13a62b32197949c14adef9624db427/Desain/Design.png)
 
 #### Details
 * Desain untuk kelas Vehicle, Ship, dan Airplane merupakan **Hierarchical Inheritance**, di mana Vehicle merupakan parent dari kelas Airplane dan Ship. Alasan digunakannya desain ini adalah karena penulis memandang bahwa kelas Airplane dan Ship merupakan turunan dari kelas Vehicle, di mana baik Airplane maupun Ship, keduanya merupakan jenis Vehicle.
