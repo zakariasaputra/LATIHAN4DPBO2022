@@ -55,9 +55,9 @@ py [name].py
 ![SS A1](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Airplane%20Class_1.png)
 ![SS A2](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Airplane%20Class_2.png)
 2. Ship Class</br>
-![SS S1](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Ship%20Class_1.png)
+![SS S1](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Ship%20Class_1.png)</br>
 ![SS S2](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/caaaf6e3508510ffaed910812e34f3980c95f207/Screenshot%20Hasil/Ship%20Class_2.png)
 3. Person Class</br>
-![SS P1](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Person%20Class_1.png)
+![SS P1](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/00e35143faa68e5cfe6506e8cf7926de8067e7db/Screenshot%20Hasil/Person%20Class_1.png)</br>
 ![SS P2](https://github.com/zakariasaputra/LATIHAN4DPBO2022/blob/caaaf6e3508510ffaed910812e34f3980c95f207/Screenshot%20Hasil/Person%20Class_2.png)
 
